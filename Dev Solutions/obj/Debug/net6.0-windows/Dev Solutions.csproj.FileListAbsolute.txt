@@ -1,0 +1,50 @@
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.exe
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.deps.json
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.runtimeconfig.json
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.pdb
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.csproj.AssemblyReference.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.csproj.GenerateResource.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.AssemblyInfoInputs.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.AssemblyInfo.cs
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.csproj.CopyComplete
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\refint\Dev Solutions.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.pdb
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.genruntimeconfig.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\ref\Dev Solutions.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev_Solutions.Inicio.resources
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\8vo. Semestre\Bases de Datos I\Dev Solutions\Dev Solutions\obj\Debug\net6.0-windows\Dev_Solutions.Registro.resources
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.exe
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.deps.json
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.runtimeconfig.json
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\Dev Solutions.pdb
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.csproj.AssemblyReference.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev_Solutions.Inicio.resources
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev_Solutions.Registro.resources
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.csproj.GenerateResource.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.AssemblyInfoInputs.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.AssemblyInfo.cs
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.csproj.CopyComplete
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\refint\Dev Solutions.dll
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.pdb
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\Dev Solutions.genruntimeconfig.cache
+C:\Users\Pablo\OneDrive - Universidad Mariano Gálvez\Escritorio\Dev Solutions\obj\Debug\net6.0-windows\ref\Dev Solutions.dll
